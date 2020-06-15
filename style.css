@@ -1,3 +1,15 @@
-body {
-  background-color: aqua;
+nav {
+  text-align: center;
+  background-color: blanchedalmond;
+}
+
+.container {
+  background-color: darkgray;
+  text-align: center;
+}
+.btn {
+  background-color: beige;
+  border: black solid 1px;
+  font-size: larger;
+  margin: 5px;
 }

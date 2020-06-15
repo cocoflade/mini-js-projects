@@ -1,0 +1,19 @@
+{
+  "name": "mini-js-projects",
+  "version": "1.0.0",
+  "description": "This is a short selection of mini JavaScript projects as a way of honing and practising my front-end web development skills, integrating JS with HTML and CSS.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cocoflade/mini-js-projects.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cocoflade/mini-js-projects/issues"
+  },
+  "homepage": "https://github.com/cocoflade/mini-js-projects#readme"
+}
